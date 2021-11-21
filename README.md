@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
+* [Development](#Development)
 
 ## Instructions
 
@@ -16,7 +17,6 @@ and The Active Section has an Attribute Called (your-active-section) that give T
 and When the Link in The Navbar is Clicked it Takes you to the Section.
 
 
-* [Development](#Development)
 
 
 ## Development
