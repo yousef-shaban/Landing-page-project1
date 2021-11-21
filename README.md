@@ -6,8 +6,29 @@
 
 ## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+This Project is A Single Website Landing Page with Three or More Section 
+Each Section has
 
-To get started, open `js/app.js` and start building out the app's functionality
+- heading
+- paragraph
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+and The Active Section has an Attribute Called (your-active-section) that give The Section That is in View
+and When the Link in The Navbar is Clicked it Takes you to the Section.
+
+
+* [Development](#Development)
+
+
+## Development
+
+### I Used:
+
+- getElementById
+- querySelectorAll
+- querySelector
+- getElementsByTagName
+- getElementByClassName
+- getBoundingClientRect
+- getAttrebute
+- setAttrebute
+
